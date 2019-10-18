@@ -1,0 +1,1 @@
+This repository is a project that scraped news about Mars from NASA's website using Beautiful Soup.
